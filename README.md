@@ -1,4 +1,4 @@
-# Obsidian Tabout [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-tabout)](https://github.com/phibr0/obsidian-tabout/releases) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-tabout/total)
+# Obsidian Tabout [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/rubinhi/obsidian-tabout)](https://github.com/rubinhi/obsidian-tabout/releases) ![GitHub all releases](https://img.shields.io/github/downloads/rubinhi/obsidian-tabout/total)
 
 This Plugin lets you press <kbd>Tab</kbd> to place the Cursor next to the markup you are in.
 
