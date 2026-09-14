@@ -65,7 +65,7 @@ export default class TaboutPlugin extends Plugin {
 
   tabout = (token: string): boolean => {
     for (let rule of this.settings.rules) {
-      if (token.contains(rule.tokenMatcher)) {
+      if (token.includes(rule.tokenMatcher)) {
         const editor =
           this.app.workspace.getActiveViewOfType(MarkdownView).editor;
         // Get Cursor Position
